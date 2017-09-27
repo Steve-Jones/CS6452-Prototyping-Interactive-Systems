@@ -1,0 +1,14 @@
+MAX:
+> max SAT_AVG
+
+MIN:
+> min ADM_RATE
+
+AVERAGE:
+> avg SAT_AVG
+
+SEARCH:
+> search STATE MA
+
+RANGE:
+> range SAT_AVG 1490 1600
